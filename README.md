@@ -10,14 +10,14 @@ I stumbled on the dataset during a quiet moment in the week and couldn’t resis
 ## Dashboard Structure
 
 ### 🔹 Page 1: Performance Snapshot
-![Performance Snapshot](assets/performance_snapshot.png)
+![Performance Snapshot](./Manufacturing_Dashboard_1.png)
 - **Total Downtime**, **Line Efficiency**, and **Operator Error Rate**
 - Downtime trends by **hourly range** and **reason**
 - Operator performance by **shift**
 - Line efficiency tracked across **batches**
 
 ### 🔹 Page 2: Root Cause Analysis
-![Root Cause Analysis](assets/root_cause_analysis.png)
+![Root Cause Analysis](./Manufacturing_Dashboard_2.png)
 - Top downtime factors driving **60% of impact**
 - Heatmap of downtime by **hour and day**
 - Operator-level breakdown of downtime causes

@@ -10,7 +10,7 @@ I stumbled on the dataset during a quiet moment in the week and couldn’t resis
 ## Dashboard Structure
 
 ### 🔹 Page 1: Performance Snapshot
-![Performance Snapshot](./Manufacturing_Dashboard%_1.png.png)
+![Performance Snapshot](./Manufacturing_Dashboard_1.png)
 - **Total Downtime**, **Line Efficiency**, and **Operator Error Rate**
 - Downtime trends by **hourly range** and **reason**
 - Operator performance by **shift**

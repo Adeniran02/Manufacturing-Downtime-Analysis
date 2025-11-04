@@ -2,7 +2,7 @@
 Power BI Dashboard
 
 ## Overview
-This project explores the root causes and performance patterns behind manufacturing downtime using a real-world dataset from [Maven Analytics]([https://www.mavenanalytics.io/]). Built in Power BI, the dashboard blends executive-level insights with granular root cause analysis — designed to help teams make smarter, faster decisions.
+This project explores the root causes and performance patterns behind manufacturing downtime using a real-world dataset from [Maven Analytics]([https://www.mavenanalytics.io/]). Built in Power BI, the dashboard blends executive-level insights with granular root cause analysis designed to help teams make smarter, faster decisions.
 
 ## Why I Built This
 I stumbled on the dataset during a quiet moment in the week and couldn’t resist diving in. As someone actively seeking an entry-level data role, I’ve been building projects that showcase not just my technical skills, but my ability to tell clear, human-centered stories with data. This dashboard is part of that journey.
